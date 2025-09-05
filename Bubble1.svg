@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19.74 10.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient-7);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-6);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-5);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient-8);
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-7 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-8 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="5.15" cy="5.15" fx="5.15" fy="5.15" r="5.15" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".23" stop-color="#fff" stop-opacity=".02"/>
+      <stop offset=".33" stop-color="#fff" stop-opacity=".08"/>
+      <stop offset=".45" stop-color="#fff" stop-opacity=".18"/>
+      <stop offset=".58" stop-color="#fff" stop-opacity=".32"/>
+      <stop offset=".71" stop-color="#fff" stop-opacity=".5"/>
+      <stop offset=".84" stop-color="#fff" stop-opacity=".71"/>
+      <stop offset=".98" stop-color="#fff" stop-opacity=".97"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="4.45" cy="7.97" fx="4.45" fy="7.97" r="5.73" gradientTransform="translate(3.18 -3.59) rotate(35.07)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="-925.74" cy="354.08" fx="-925.74" fy="354.08" r="2.4" gradientTransform="translate(770.56 -343.34) scale(.83 1)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-4" cx="7.82" cy="6.81" fx="7.82" fy="6.81" r="1.6" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="16.69" cy="7.88" fx="16.69" fy="7.88" r="3.05" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="16.28" cy="9.55" fx="16.28" fy="9.55" r="3.39" gradientTransform="translate(7.14 -9.09) rotate(35.07)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-7" cx="-915.99" cy="363.24" fx="-915.99" fy="363.24" r="1.42" gradientTransform="translate(775.48 -352.05) scale(.83 1)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-8" cx="18.27" cy="8.86" fx="18.27" fy="8.86" r=".94" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-8" cx="5.15" cy="5.15" r="5.15"/>
+      <ellipse class="cls-7" cx="7.27" cy="3.24" rx="1.31" ry="1.63" transform="translate(-.54 4.77) rotate(-35.07)"/>
+      <ellipse class="cls-6" cx="2.38" cy="8.39" rx=".43" ry=".76" transform="translate(-5.32 4.3) rotate(-46.22)"/>
+      <circle class="cls-4" cx="8.63" cy="5.56" r=".41"/>
+    </g>
+    <g>
+      <circle class="cls-3" cx="16.69" cy="7.88" r="3.05"/>
+      <ellipse class="cls-2" cx="17.95" cy="6.75" rx=".77" ry=".97" transform="translate(-.62 11.54) rotate(-35.07)"/>
+      <ellipse class="cls-1" cx="15.05" cy="9.79" rx=".26" ry=".45" transform="translate(-2.43 13.89) rotate(-46.22)"/>
+      <circle class="cls-5" cx="18.75" cy="8.12" r=".24"/>
+    </g>
+  </g>
+</svg>
